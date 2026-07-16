@@ -1,0 +1,8 @@
+[server]
+enableStaticServing = true
+
+[[theme.fontFaces]]
+family="RacingMarkPSF"
+url="/app/static/racing_mark_race.otf"
+style="normal"
+weight="normal"
